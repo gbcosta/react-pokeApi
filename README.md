@@ -12,11 +12,11 @@ this project was created for fun, so i hope you enjoy like me
 ![forthebadge](https://forthebadge.com/images/badges/open-source.svg)
 ![license](https://img.shields.io/github/license/dec0dOS/amazing-github-template.svg?style=flat-square)
 
-# About The Project
+## About
 
 It's possible pick any pokemon you want and see their Stats, Moves and Abilities
 
-# Build With
+## Build With
 
 - React js
 - Material UI
@@ -25,7 +25,7 @@ It's possible pick any pokemon you want and see their Stats, Moves and Abilities
 - vscode
 - PokeApi
 
-Getting Started
+## Getting Started
 Clone the repository with git. You will need node.js
 
 Run
