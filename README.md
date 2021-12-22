@@ -28,11 +28,11 @@ It's possible pick any pokemon you want and see their Stats, Moves and Abilities
 ## Getting Started
 Clone the repository with git. You will need node.js
 
-Run
+### Run
 Step 1
 Install npm, you can install yarn too.
 
-Step 2
+### Step 2
 in the project directory, use: npm start or yarn start
 
-💘💘💘💘💘💘💘💘
+😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺
