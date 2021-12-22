@@ -26,13 +26,13 @@ It's possible pick any pokemon you want and see their Stats, Moves and Abilities
 - PokeApi
 
 ## Getting Started
-Clone the repository with git. You will need node.js
+Clone the repository with `git`. You will need `node.js`
 
 ### Run
 Step 1
-Install npm, you can install yarn too.
+Install `npm`, you can install `yarn` too.
 
 ### Step 2
-in the project directory, use: npm start or yarn start
+in the project directory, use: `npm` start or `yarn` start
 
 😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺
